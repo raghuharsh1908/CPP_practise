@@ -69,9 +69,6 @@ bool check_prime(int n){
     return true;
 }
 
-bool check_for_prime(int n ){
-    
-}
 
 
 int main()
